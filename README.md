@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/ingress-nightmare.png" alt="Ingress Nightmare Vulnerability">
+</p>
+
 # Ingress NGINX Vulnerability Checker
 
 Detection scripts for the Ingress NGINX Controller vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, CVE-2025-1974).
